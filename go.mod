@@ -1,4 +1,4 @@
-module parquet-explore
+module pqx
 
 go 1.23.4
 

@@ -1,6 +1,6 @@
 package main
 
-import "parquet-explore/cmd"
+import "pqx/cmd"
 
 func main() {
 	cmd.Execute()
